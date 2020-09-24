@@ -4,7 +4,7 @@ title:  "Productivity"
 ---
 
 #### TL;DR
-* **Use an app blocker on your phone, I recommend [StayFocusd](https://play.google.com/store/apps/details?id=com.stayfocused&hl=en_GB).**  
+* **Use an app blocker on your phone, I recommend [StayFocused](https://play.google.com/store/apps/details?id=com.stayfocused&hl=en_GB).**  
  Discipline works when you don’t have a choice, our monkey brains are no match for the world's best content recommendation algorithms and persuasive design. 
 
 * **Plan your days flexibly using Google Calendar or a journal.**  
@@ -21,11 +21,14 @@ Getting into the habit of thinking about your habits will set you on your own se
 **Lets gather some data, Time Tracking**  
 Both Android (Digital Wellbeing) and iOS (Screentime) have recently added some form of app tracking, take a look and you may be surprised to see you spending multiple hours on things that do not give you much value. 
 
-If you are a heavy computer user, try RescueTime.  
+If you are a heavy computer user, trial [RescueTime](https://www.rescuetime.com/).  
 If you care about productivity at work and can't install things, use Toggl or manually log your time in Google Calendar or in a journal.   
 You will be surprised at how unproductive you really are. 
 
-![Example of a planned day in Google Calendar](images/StayFocused.jpg)
+<div style="text-align: center">
+<img src="{{ site.url }}/assets/images/StayFocused.jpg" alt="Example of StayFocused weekly usage." width="50%" height="50%" class="center">
+</div>
+<br>
 
 This is important as we all have our own addictions. Tracking my usage showed me my **YouTube addiction**. The key to tackling this has been to recognise that the recommendation algorithm is the problem, not YouTube itself. Therefore instead of blocking the website, I sign out of YouTube and use the NewPipe Android app. Using Firefox Focus instead of Firefox has helped a lot. 
 
@@ -64,10 +67,13 @@ Instead of texting a friend while watching TV, not being able to focus properly 
 Instead of laying in bed and binging random Youtube videos for an hour, watch or listen to them while cleaning, or even better listen to a podcast or audiobook instead. (See books listed below.)  
 
 Find a way that works for you but my approach is to outline what I want to do each day as a checklist in my journal, then schedule a rough time in Google calendar. I make sure to leave an hour or two, knowing that things take longer than usual. 
-
-![Example of a planned day in Google Calendar](../images/GoogleCalendar.jpg)
-
-Throughout the day, I then update and move my calendar events and check them off my journal.
+  
+<div style="text-align: center">
+<img src="{{ site.url }}/assets/images/GoogleCalendar.jpg" alt="Example of a planned day in Google Calendar." width="50%" height="50%" class="center">  
+</div>
+ <br> 
+    
+  Throughout the day, I then update and move my calendar events and check them off my journal.
 
 At the end of the day and as part of my nightly routine, I then look back at my journal and consider what went right, what went wrong, and move over events I did not manage today to the next day. 
 

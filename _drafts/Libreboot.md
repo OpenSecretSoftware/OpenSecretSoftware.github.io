@@ -1,4 +1,4 @@
 ---
 layout: post
-title:  "Libreboot"
+title:  "Libreboot X200s"
 ---
